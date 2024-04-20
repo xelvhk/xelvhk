@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi,there<br>
-I’m Lex</h1>
+<h1 align="center">👋 Hi. I’m Lex</h1>
 <h2 align="center">Frontend developer from Saint-Petersburg, Russia</h2>
 
 <ul>

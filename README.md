@@ -9,7 +9,7 @@
 <li>🌱 I’m currently learning frontend frameworks as <strong>React</strong> and <strong>Angular</strong>, <strong>PHP</strong> language and <strong>Laravel</strong> framework;
 <li>⚡ Fun fact: I finished graduate school in cultural studies and was the deputy director for educational work at a St. Petersburg school.</li>
 </ul>
-<h2>Languages and tools</h2>
+<h2 align="center">Languages and tools</h2>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>

@@ -18,4 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
 </div>
-
+<h2 align="center">My stats</h2>
+<div  align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xelvhk&theme=gotham&border_radius=4" alt="GitHub Streak"/></a>
+</div>

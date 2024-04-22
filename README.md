@@ -18,7 +18,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstormr" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstorm" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="RenPy" alt="RenPy" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>

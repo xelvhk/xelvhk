@@ -26,7 +26,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Github" width="50" height="50"/>
 </div>
+
 <h2 align="center">My stats</h2>
 <div  align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xelvhk&theme=gotham&border_radius=4" alt="GitHub Streak"/></a>
+<a href="https://github.com/xelvhk">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xelvhk&theme=gotham&border_radius=4" />
+</a>
+<a href="https://github.com/xelvhk">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelvhk&size_weight=0.5&count_weight=0.5&theme=gotham" />
+</a>
 </div>

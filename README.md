@@ -24,7 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="RenPy" alt="RenPy" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Github" width="50" height="50"/>
 </div>
 
 <h2 align="center">My stats</h2>

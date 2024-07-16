@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzYXNkMXE3cHl2ZnUzY25zbnQydjA2Zjg3azVuOWd6Nnk4NDV3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
-<h2 align="center">Fullstack developer from Saint-Petersburg, Russia</h2>
+<h2 align="center">Junior fullstack developer from Saint-Petersburg, Russia</h2>
 <ul>
 <li>💻 I’m working on <a href="https://xelvhk.github.io/aboutme/">my portfolio;</a></li>
 <li>⌨️ I’m currently learning frontend frameworks as <strong>React</strong> and <strong>Angular</strong>, <strong>PHP</strong> language and <strong>Laravel</strong> framework;

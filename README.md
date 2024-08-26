@@ -7,7 +7,7 @@
 <li>💻 I’m working on <a href="https://xelvhk.github.io/aboutme/">my portfolio;</a></li>
 <li>⌨️ Now I'm practicing creating web applications using <strong>React</strong>, <strong>PHP</strong> language and <strong>Laravel</strong> framework;
 <li>👨‍🎓 Fun fact: I finished graduate school in cultural studies and was the deputy director for educational work at a St. Petersburg school.</li>
-<li>👨‍🏫 Now I work as a computer science teacher at Hexlet College </li>
+
 </ul>
 <h2 align="center">Languages and tools</h2>
 <div>

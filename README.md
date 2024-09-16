@@ -5,7 +5,7 @@
 <h2 align="center">Junior fullstack developer from Saint-Petersburg, Russia</h2>
 <ul>
 <li>💻 I’m working on <a href="https://xelvhk.github.io/aboutme/">my portfolio;</a></li>
-<li>⌨️ Now I'm practicing creating web applications using <strong>React</strong>, <strong>PHP</strong> language and <strong>Laravel</strong> framework;
+<li>⌨️ Now I'm practicing creating telegram bots with aiogram library and web applications using <strong>React</strong>, <strong>PHP</strong> language and <strong>Laravel</strong> framework;</li>
 <li>👨‍🎓 Fun fact: I finished graduate school in cultural studies and was the deputy director for educational work at a St. Petersburg school.</li>
 
 </ul>

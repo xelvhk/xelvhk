@@ -19,6 +19,11 @@ I build practical local-first AI products and automation tools:
 - React frontends for clear product UX
 - Telegram bots for daily workflows
 
+## Currently Building
+- Improving `vasya_ai` onboarding to run from clean setup in under 10 minutes
+- Expanding `aboutme` project cards with GitHub topic-based filtering
+- Adding smoke tests and CI baselines across flagship repositories
+
 ## Featured Repositories
 - [vasya_ai](https://github.com/xelvhk/vasya_ai) - Local-first desktop AI assistant (voice, tasks, calendar, API)
 - [aboutme](https://github.com/xelvhk/aboutme) - Portfolio with GitHub project sync and bilingual content

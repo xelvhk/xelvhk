@@ -30,7 +30,7 @@ I build practical local-first AI products and automation tools:
 - [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram bot for attendance and work-time tracking
 - [js-marvel](https://github.com/xelvhk/js-marvel) - Vanilla JS project with external API integration
 
-## Hiring Signal
+## Project Quality
 - Product-oriented repo READMEs with setup and architecture
 - Real deployment flow (GitHub Pages)
 - Local-first AI focus with integration layer (Notion/GitHub/Google Calendar)

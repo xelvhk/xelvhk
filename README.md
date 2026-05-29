@@ -12,12 +12,31 @@
   <a href="https://t.me/hex_lex">Telegram</a>
 </p>
 
-## Positioning
+---
+
+## Impact in Numbers
+- Public repositories: **30+**
+- Active product repos: **4+**
+- AI/automation projects: **3+**
+- Main focus: **local-first assistants, Telegram bots, backend automation**
+
+## Professional Focus
 I build practical local-first AI products and automation tools:
 - voice and task assistants in Python
 - FastAPI backends and integrations
 - React frontends for clear product UX
 - Telegram bots for daily workflows
+
+## GitHub Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20repos-30%2B-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Automation-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelvhk&theme=github-compact&hide_border=true" />
+</p>
 
 ## Currently Building
 - Improving `vasya_ai` onboarding to run from clean setup in under 10 minutes
@@ -27,8 +46,8 @@ I build practical local-first AI products and automation tools:
 ## Featured Repositories
 - [vasya_ai](https://github.com/xelvhk/vasya_ai) - Local-first desktop AI assistant (voice, tasks, calendar, API)
 - [aboutme](https://github.com/xelvhk/aboutme) - Portfolio with GitHub project sync and bilingual content
+- [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - Telegram Secret Santa bot with private matching flow
 - [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram bot for attendance and work-time tracking
-- [js-marvel](https://github.com/xelvhk/js-marvel) - Vanilla JS project with external API integration
 
 ## Project Quality
 - Product-oriented repo READMEs with setup and architecture

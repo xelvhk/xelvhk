@@ -49,6 +49,21 @@ I build practical local-first AI products and automation tools:
 - [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - Telegram Secret Santa bot with private matching flow
 - [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram bot for attendance and work-time tracking
 
+
+## Selected Impact
+
+1. `vasya_ai`  
+Problem: local AI assistant without cloud dependency.  
+Result: voice-first MVP with tasks/calendar, API layer, and integrations (Notion/GitHub/Google Calendar).
+
+2. `aboutme`  
+Problem: portfolio content gets stale with manual updates.  
+Result: automatic GitHub project sync, bilingual content, and stable GitHub Pages delivery.
+
+3. `attendance_bot`  
+Problem: manual work-time tracking in chats and spreadsheets is error-prone.  
+Result: Telegram bot with status flows, reporting, and CSV export for daily team usage.
+
 ## Project Quality
 - Product-oriented repo READMEs with setup and architecture
 - Real deployment flow (GitHub Pages)

@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Lex</h1>
 
+<p align="center">Language: <strong>English</strong> | <a href="./README.ru.md">Русский</a></p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzYXNkMXE3cHl2ZnUzY25zbnQydjA2Zjg3azVuOWd6Nnk4NDV3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="220" alt="coding gif"/>
 </div>

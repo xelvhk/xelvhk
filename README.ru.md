@@ -14,20 +14,20 @@
 
 ---
 
-## Impact in Numbers
-- Public repositories: **30+**
-- Active product repos: **4+**
-- AI/automation projects: **3+**
-- Main focus: **local-first assistants, Telegram bots, backend automation**
+## В цифрах
+- Публичные репозитории: **30+**
+- Активные продуктовые репозитории: **4+**
+- AI/automation проекты: **3+**
+- Основной фокус: **local-first ассистенты, Telegram-боты, backend-автоматизация**
 
-## Professional Focus
+## Профессиональный фокус
 Я делаю практичные local-first AI-продукты и инструменты автоматизации:
 - voice- и task-ассистенты на Python
 - FastAPI-бэкенды и интеграции
 - React-фронтенды с понятным UX
 - Telegram-боты для ежедневных рабочих сценариев
 
-## GitHub Analytics
+## GitHub-аналитика
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20repos-30%2B-3b82f6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,32 +38,32 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelvhk&theme=github-compact&hide_border=true" />
 </p>
 
-## Currently Building
+## Сейчас в работе
 - Улучшаю onboarding `vasya_ai`, чтобы запуск с чистой среды занимал менее 10 минут
 - Расширяю карточки проектов в `aboutme` фильтрацией по GitHub topics
 - Добавляю smoke tests и базовый CI в ключевые репозитории
 
-## Featured Repositories
-- [vasya_ai](https://github.com/xelvhk/vasya_ai) - Local-first desktop AI assistant (voice, tasks, calendar, API)
-- [aboutme](https://github.com/xelvhk/aboutme) - Portfolio with GitHub project sync and bilingual content
-- [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - Telegram Secret Santa bot with private matching flow
-- [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram bot for attendance and work-time tracking
+## Избранные репозитории
+- [vasya_ai](https://github.com/xelvhk/vasya_ai) - local-first desktop AI-ассистент: голос, задачи, календарь и API
+- [aboutme](https://github.com/xelvhk/aboutme) - портфолио с автосинхронизацией GitHub-проектов и двуязычным контентом
+- [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - Telegram-бот для Тайного Санты с приватной жеребьевкой
+- [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram-бот для учета посещаемости и рабочего времени
 
-## Selected Impact
+## Ключевые результаты
 
 1. `vasya_ai`  
-Problem: local AI assistant without cloud dependency.  
-Result: voice-first MVP with tasks/calendar, API layer, and integrations (Notion/GitHub/Google Calendar).
+Проблема: нужен локальный AI-ассистент без обязательной зависимости от облака.  
+Результат: voice-first MVP с задачами, календарем, API-слоем и интеграциями (Notion/GitHub/Google Calendar).
 
 2. `aboutme`  
-Problem: portfolio content gets stale with manual updates.  
-Result: automatic GitHub project sync, bilingual content, and stable GitHub Pages delivery.
+Проблема: контент портфолио устаревает, если обновлять проекты вручную.  
+Результат: автоматическая синхронизация GitHub-проектов, двуязычный контент и стабильная публикация через GitHub Pages.
 
 3. `attendance_bot`  
-Problem: manual work-time tracking in chats and spreadsheets is error-prone.  
-Result: Telegram bot with status flows, reporting, and CSV export for daily team usage.
+Проблема: ручной учет рабочего времени в чатах и таблицах легко приводит к ошибкам.  
+Результат: Telegram-бот со сценариями статусов, отчетностью и CSV-экспортом для ежедневного использования.
 
-## Project Quality
-- Product-oriented repo READMEs with setup and architecture
-- Real deployment flow (GitHub Pages)
-- Local-first AI focus with integration layer (Notion/GitHub/Google Calendar)
+## Качество проектов
+- README репозиториев с постановкой задачи, запуском и архитектурой
+- Реальный flow публикации через GitHub Pages
+- Local-first AI-фокус с интеграционным слоем (Notion/GitHub/Google Calendar)

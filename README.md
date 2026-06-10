@@ -29,6 +29,12 @@ I build practical local-first AI products and automation tools:
 - React frontends for clear product UX
 - Telegram bots for daily workflows
 
+## Start Here
+- [vasya_ai](https://github.com/xelvhk/vasya_ai) - flagship local-first AI assistant with voice, tasks, calendar, API layer, and integrations.
+- [aboutme](https://github.com/xelvhk/aboutme) - live portfolio as a macOS-inspired React desktop with GitHub project sync and Markdown blog.
+- [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - completed Telegram bot case with private Secret Santa matching flow.
+- [taskflow_orchestrator](https://github.com/xelvhk/taskflow_orchestrator) - backend-heavy FastAPI orchestration API with PostgreSQL, Redis, Celery, and Docker.
+
 ## GitHub Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20repos-30%2B-3b82f6?style=for-the-badge" />
@@ -40,16 +46,22 @@ I build practical local-first AI products and automation tools:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelvhk&theme=github-compact&hide_border=true" />
 </p>
 
+## Recent Updates
+- Released [aboutme v0.1.0](https://github.com/xelvhk/aboutme/releases/tag/v0.1.0): macOS-style portfolio, GitHub project sync, Markdown blog, RU/EN content.
+- Released [vasya_ai v0.5.50](https://github.com/xelvhk/vasya_ai/releases/tag/v0.5.50): current flagship milestone for the local-first assistant.
+- Released [tajnyj_ded_bot v0.1.0](https://github.com/xelvhk/tajnyj_ded_bot/releases/tag/v0.1.0): first documented Telegram bot release.
+
 ## Currently Building
-- Improving `vasya_ai` onboarding to run from clean setup in under 10 minutes
-- Expanding `aboutme` project cards with GitHub topic-based filtering
-- Adding smoke tests and CI baselines across flagship repositories
+- Short demos for `vasya_ai`, `aboutme`, and Telegram bot flows
+- `good first issue` tasks for small, well-scoped contributions
+- Cleaner Quick Start verification across active repositories
+- Practical notes about local-first AI, automation, and product-oriented repo packaging
 
 ## Featured Repositories
 - [vasya_ai](https://github.com/xelvhk/vasya_ai) - Local-first desktop AI assistant (voice, tasks, calendar, API)
 - [aboutme](https://github.com/xelvhk/aboutme) - Portfolio with GitHub project sync and bilingual content
 - [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - Telegram Secret Santa bot with private matching flow
-- [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram bot for attendance and work-time tracking
+- [taskflow_orchestrator](https://github.com/xelvhk/taskflow_orchestrator) - FastAPI task orchestration backend with Postgres, Redis, Celery, and Docker
 
 
 ## Selected Impact
@@ -65,6 +77,10 @@ Result: automatic GitHub project sync, bilingual content, and stable GitHub Page
 3. `attendance_bot`  
 Problem: manual work-time tracking in chats and spreadsheets is error-prone.  
 Result: Telegram bot with status flows, reporting, and CSV export for daily team usage.
+
+4. `taskflow_orchestrator`  
+Problem: async backend workflows need predictable queues, persistence, and operational boundaries.  
+Result: FastAPI service skeleton with PostgreSQL, Redis, Celery, Docker, and release-ready documentation.
 
 ## Project Quality
 - Product-oriented repo READMEs with setup and architecture

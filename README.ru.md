@@ -27,6 +27,12 @@
 - React-фронтенды с понятным UX
 - Telegram-боты для ежедневных рабочих сценариев
 
+## С чего начать
+- [vasya_ai](https://github.com/xelvhk/vasya_ai) - главный local-first AI-ассистент: голос, задачи, календарь, API-слой и интеграции.
+- [aboutme](https://github.com/xelvhk/aboutme) - живое портфолио в виде macOS-inspired React desktop с GitHub project sync и Markdown-блогом.
+- [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - завершенный Telegram bot case с приватной жеребьевкой Тайного Санты.
+- [taskflow_orchestrator](https://github.com/xelvhk/taskflow_orchestrator) - backend-heavy FastAPI orchestration API с PostgreSQL, Redis, Celery и Docker.
+
 ## GitHub-аналитика
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20repos-30%2B-3b82f6?style=for-the-badge" />
@@ -38,16 +44,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelvhk&theme=github-compact&hide_border=true" />
 </p>
 
+## Последние обновления
+- Выпущен [aboutme v0.1.0](https://github.com/xelvhk/aboutme/releases/tag/v0.1.0): macOS-style портфолио, GitHub project sync, Markdown-блог, RU/EN контент.
+- Выпущен [vasya_ai v0.5.50](https://github.com/xelvhk/vasya_ai/releases/tag/v0.5.50): актуальный milestone local-first ассистента.
+- Выпущен [tajnyj_ded_bot v0.1.0](https://github.com/xelvhk/tajnyj_ded_bot/releases/tag/v0.1.0): первый документированный релиз Telegram-бота.
+
 ## Сейчас в работе
-- Улучшаю onboarding `vasya_ai`, чтобы запуск с чистой среды занимал менее 10 минут
-- Расширяю карточки проектов в `aboutme` фильтрацией по GitHub topics
-- Добавляю smoke tests и базовый CI в ключевые репозитории
+- Короткие demo для `vasya_ai`, `aboutme` и Telegram bot flows
+- `good first issue` задачи для небольших и понятных вкладов
+- Проверка Quick Start в активных репозиториях
+- Практичные заметки про local-first AI, автоматизацию и продуктовую упаковку репозиториев
 
 ## Избранные репозитории
 - [vasya_ai](https://github.com/xelvhk/vasya_ai) - local-first desktop AI-ассистент: голос, задачи, календарь и API
 - [aboutme](https://github.com/xelvhk/aboutme) - портфолио с автосинхронизацией GitHub-проектов и двуязычным контентом
 - [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) - Telegram-бот для Тайного Санты с приватной жеребьевкой
-- [attendance_bot](https://github.com/xelvhk/attendance_bot) - Telegram-бот для учета посещаемости и рабочего времени
+- [taskflow_orchestrator](https://github.com/xelvhk/taskflow_orchestrator) - FastAPI backend для оркестрации задач с Postgres, Redis, Celery и Docker
 
 ## Ключевые результаты
 
@@ -62,6 +74,10 @@
 3. `attendance_bot`  
 Проблема: ручной учет рабочего времени в чатах и таблицах легко приводит к ошибкам.  
 Результат: Telegram-бот со сценариями статусов, отчетностью и CSV-экспортом для ежедневного использования.
+
+4. `taskflow_orchestrator`  
+Проблема: асинхронным backend-процессам нужны очереди, хранение состояния и понятные операционные границы.  
+Результат: FastAPI service skeleton с PostgreSQL, Redis, Celery, Docker и release-ready документацией.
 
 ## Качество проектов
 - README репозиториев с постановкой задачи, запуском и архитектурой

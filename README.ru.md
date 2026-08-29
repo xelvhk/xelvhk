@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Lex</h1>
+# Привет, я Lex
 
 <p align="center">Язык: <a href="./README.md">English</a> | <strong>Русский</strong></p>
 
@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzYXNkMXE3cHl2ZnUzY25zbnQydjA2Zjg3azVuOWd6Nnk4NDV3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="220" alt="coding gif"/>
 </div>
 
-<h3 align="center">Python / AI Automation Developer | Local-first ассистенты | FastAPI | React</h3>
+<p align="center"><strong>Python / AI Product Engineer | Local-first системы | FastAPI | Автоматизация</strong></p>
 
 <p align="center">
   <a href="https://xelvhk.github.io/aboutme/">Портфолио</a> •
@@ -17,44 +17,44 @@
 
 ---
 
-Я создаю local-first AI-ассистентов, системы автоматизации и продуктовые Python-бэкенды.
-Мой фокус - практичные проекты, которые другой инженер может клонировать, настроить, проверить и понять.
+Я создаю AI-продукты с понятными границами приватности, детерминированные системы автоматизации и надёжные Python-бэкенды.
+В моих репозиториях важны воспроизводимый запуск, явные сервисные границы, локальное владение данными и инженерные утверждения, подтверждённые проверяемыми артефактами.
 
 ## Избранные проекты
 
 | Проект | Что показывает | Стек |
 | --- | --- | --- |
-| [vasya_ai](https://github.com/xelvhk/vasya_ai) | Флагманский local-first голосовой ассистент с задачами, календарем, API-слоем и интеграциями | Python, FastAPI, local AI, voice UX |
-| [aboutme](https://github.com/xelvhk/aboutme) | Живое двуязычное портфолио с GitHub project sync, Markdown-блогом и публикацией через GitHub Pages | React, Vite, GitHub Pages |
-| [taskflow_orchestrator](https://github.com/xelvhk/taskflow_orchestrator) | Backend-heavy orchestration API с очередями, хранением состояния и сервисными границами | FastAPI, PostgreSQL, Redis, Celery, Docker |
-| [tajnyj_ded_bot](https://github.com/xelvhk/tajnyj_ded_bot) | Завершенный Telegram bot case с приватной жеребьевкой Тайного Санты | Python, Telegram Bot API |
+| [vasya_ai](https://github.com/xelvhk/vasya_ai) | Local-first desktop-ассистент с голосовыми и текстовыми сценариями, задачами, календарём, памятью, интеграциями и защищённым локальным API | Python, FastAPI, SQLite, Ollama, voice UX |
+| [college_auto_schedule](https://github.com/xelvhk/college_auto_schedule) | Система составления расписания колледжа с безопасным импортом Excel, версионированными локальными данными, детерминированной проверкой готовности и CP-SAT генерацией | Python, FastAPI, SQLite, OR-Tools, Excel |
+| [taskflow_orchestrator](https://github.com/xelvhk/taskflow_orchestrator) | Надёжные фоновые задачи с идемпотентностью, повторными попытками, dead-letter обработкой, сохранением состояния и операционными метриками | FastAPI, PostgreSQL, Redis, Celery, Docker |
+| [career-radar](https://github.com/xelvhk/career-radar) | Evidence-first карьерная аналитика с детерминированным сопоставлением вакансий и приватным локальным Opportunity Inbox | Python, SQLite, local web UI, privacy boundaries |
+| [aboutme](https://github.com/xelvhk/aboutme) | Двуязычное портфолио с GitHub project sync, Markdown-блогом, превью проектов и публикацией через GitHub Pages | React, Create React App, GitHub Pages |
 
 ## Что я делаю
 
-- Local-first AI-ассистентов для голоса, задач, заметок, календаря и ежедневной автоматизации
-- FastAPI-бэкенды с интеграциями, понятным запуском и операционными границами
-- React-интерфейсы, которые делают технические сценарии проще для пользователя
-- Telegram-ботов для приватных, повторяемых командных и личных процессов
+- Local-first AI-ассистентов для голоса, задач, заметок, памяти и ежедневной автоматизации
+- FastAPI-сервисы с типизированными контрактами, сохранением состояния, фоновыми задачами и операционными проверками
+- Детерминированные EdTech- и workflow-системы поверх проверенных исходных данных
+- Локальные web-интерфейсы, которые делают сложные технические процессы понятными и проверяемыми
 
-## Инженерный стиль
+## Инженерные принципы
 
-- Privacy-first по умолчанию: локальные данные, явные интеграции, понятные границы
-- Продуктовый подход: сначала рабочий flow, потом декоративная полировка
-- Portfolio-quality упаковка: README, quick start, release notes и demo
-- Практичная проверка: setup checks, smoke tests и точечные regression-тесты
+- Хранить приватные данные локально и явно обозначать каждую внешнюю интеграцию.
+- Отделять реализованные возможности от планов, прототипов и приватных доказательств.
+- Развивать продукт узкими сквозными срезами с точечными regression-тестами.
+- Документировать запуск, архитектуру, ограничения и проверку так, чтобы результат мог оценить другой инженер.
 
-## Последние обновления
+## Подтверждённые релизы
 
 - Выпущен [aboutme v0.1.0](https://github.com/xelvhk/aboutme/releases/tag/v0.1.0): macOS-style портфолио, GitHub project sync, Markdown-блог, RU/EN контент.
-- Выпущен [vasya_ai v0.5.50](https://github.com/xelvhk/vasya_ai/releases/tag/v0.5.50): актуальный milestone local-first ассистента.
+- Выпущен [vasya_ai v0.6.0](https://github.com/xelvhk/vasya_ai/releases/tag/v0.6.0): актуальный тегированный milestone local-first ассистента.
 - Выпущен [tajnyj_ded_bot v0.1.0](https://github.com/xelvhk/tajnyj_ded_bot/releases/tag/v0.1.0): первый документированный релиз Telegram-бота.
 
-## Сейчас в работе
+## Текущий фокус
 
-- Короткие demo для `vasya_ai`, `aboutme` и Telegram bot flows
-- Good first issues для небольших и хорошо ограниченных задач
-- Более чистая Quick Start-проверка в активных репозиториях
-- Практичные заметки про local-first AI, автоматизацию и продуктовую упаковку репозиториев
+- Усиление local-first ассистентов и границ хранения приватных данных
+- Развитие детерминированного расписания, карьерной аналитики и workflow-автоматизации
+- Улучшение воспроизводимого запуска, CI-гейтов, release evidence и developer-документации по всему портфолио
 
 ## Открыта к
 
@@ -62,14 +62,10 @@
 - Freelance MVP, Telegram-ботам, внутренней автоматизации и AI workflow tools
 - Коллаборациям вокруг local-first ассистентов и privacy-conscious automation
 
-## GitHub-аналитика
+## Основной стек
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20repos-30%2B-3b82f6?style=for-the-badge" alt="Public repos 30+" />
-  <img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Python" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Automation-111827?style=for-the-badge" alt="Focus AI Automation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelvhk&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11 или новее" />
+  <img src="https://img.shields.io/badge/FastAPI-Services-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI-сервисы" />
+  <img src="https://img.shields.io/badge/Focus-Local--first%20AI-111827?style=for-the-badge" alt="Фокус: local-first AI" />
 </p>

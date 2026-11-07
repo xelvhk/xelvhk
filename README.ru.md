@@ -30,8 +30,8 @@
 ## Engineering Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xelvhk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelvhk&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xelvhk&theme=default" alt="Статистика GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xelvhk&theme=default" alt="Языки по коммитам" />
 </p>
 
 ## С чего начать
